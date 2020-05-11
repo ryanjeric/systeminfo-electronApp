@@ -1,0 +1,15 @@
+{
+  "name": "sysinfoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "rj",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^8.2.5"
+  }
+}
